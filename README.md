@@ -18,4 +18,4 @@ An end-to-end business intelligence pipeline that extracts raw SaaS transactiona
 To find the final report, navigate into the reports folder, and click on the file "Final Analysis Report" PDF.
 Here is a quick overview as a basic analysis document : 
 
-![Dashboard View](Reports/Images/dashboard.png)
+![Dashboard View](https://github.com/Asbadsito/SaaS-Revenue-Analytics/blob/04234fc551c93435945264f59e50a450d5ae2210/Data_Analysis_SaaS/Reports/Images/dashboard.png)
