@@ -1,2 +1,13 @@
 # SaaS-Revenue-Analytics
 Just a data analysis project based on a SaaS service business
+
+Precise description : 
+# End-to-End SaaS Revenue & Churn Analytics Pipeline
+
+## Project Overview
+An end-to-end business intelligence pipeline that extracts raw SaaS transactional data (Populated and generated), migrates it into a structured relational database, and delivers an executive-ready strategic analytics dashboard.
+
+## Tech Stack
+* **Database Engine:** PostgreSQL (Schema Design, Aggregations, Conditional Joins)
+* **BI & Reporting:** Excel / LibreOffice Calc (Pivot Tables, Data Grids, Dynamic Sorting)
+* **Languages:** SQL, Markdown
