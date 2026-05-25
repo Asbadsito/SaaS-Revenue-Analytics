@@ -8,6 +8,6 @@ Precise description :
 An end-to-end business intelligence pipeline that extracts raw SaaS transactional data (Populated and generated), migrates it into a structured relational database, and delivers an executive-ready strategic analytics dashboard with some marketing and BI decisions or recommendations according to the data.
 
 ## Tech Stack
-* **Database Engine:** PostgreSQL (Schema Design, Aggregations, Conditional Joins)
+* **Database:** PostgreSQL & Datagrid for scripts and management (Schema Design, Aggregations, Conditional Joins)
 * **BI & Reporting:** Excel / LibreOffice Calc (Pivot Tables, Data Grids, Dynamic Sorting)
-* **Languages:** SQL, Markdown
+* **Languages:** SQL
