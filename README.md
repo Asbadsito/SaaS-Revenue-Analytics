@@ -18,4 +18,4 @@ An end-to-end business intelligence pipeline that extracts raw SaaS transactiona
 To find the final report, navigate into the reports folder, and click on the file "Final Analysis Report" PDF.
 Here is a quick overview as a basic analysis document : 
 
-![Dashboard View](dashboard.png)
+![Dashboard View](reports/images/dashboard.png)
