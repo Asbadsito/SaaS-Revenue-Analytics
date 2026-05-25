@@ -11,3 +11,11 @@ An end-to-end business intelligence pipeline that extracts raw SaaS transactiona
 * **Database:** PostgreSQL & Datagrid for scripts and management (Schema Design, Aggregations, Conditional Joins)
 * **BI & Reporting:** Excel / LibreOffice Calc (Pivot Tables, Data Grids, Dynamic Sorting)
 * **Languages:** SQL
+
+
+## REPORT
+
+To find the final report, navigate into the reports folder, and click on the file "Final Analysis Report" PDF.
+Here is a quick overview as a basic analysis document : 
+
+![Dashboard View](dashboard.png)
