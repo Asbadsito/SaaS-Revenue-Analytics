@@ -5,7 +5,7 @@ Precise description :
 # End-to-End SaaS Revenue & Churn Analytics Pipeline
 
 ## Project Overview
-An end-to-end business intelligence pipeline that extracts raw SaaS transactional data (Populated and generated), migrates it into a structured relational database, and delivers an executive-ready strategic analytics dashboard.
+An end-to-end business intelligence pipeline that extracts raw SaaS transactional data (Populated and generated), migrates it into a structured relational database, and delivers an executive-ready strategic analytics dashboard with some marketing and BI decisions or recommendations according to the data.
 
 ## Tech Stack
 * **Database Engine:** PostgreSQL (Schema Design, Aggregations, Conditional Joins)
