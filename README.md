@@ -1,5 +1,5 @@
 # SaaS-Revenue-Analytics
-Just a data analysis project based on a SaaS service business
+Just a data analysis project based on a SaaS business
 
 Precise description : 
 # End-to-End SaaS Revenue & Churn Analytics Pipeline
