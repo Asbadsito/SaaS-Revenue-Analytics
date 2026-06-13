@@ -1,8 +1,5 @@
 # SaaS-Revenue-Analytics
-Just a data analysis project based on a SaaS business
-
-Precise description : 
-# End-to-End SaaS Revenue & Churn Analytics Pipeline
+Just a data analysis project/report based on a SaaS business
 
 ## Project Overview
 An end-to-end business intelligence report that uses raw SaaS transactional data (Populated and generated), migrates it into a structured relational database, and delivers an executive-ready strategic analytics dashboard with some marketing and BI decisions or recommendations according to the data.
